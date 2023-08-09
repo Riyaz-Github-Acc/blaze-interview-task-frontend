@@ -1,0 +1,18 @@
+.homePost img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.authorInfo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 10px 0;
+}
+
+.innerField {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}

@@ -1,0 +1,22 @@
+.firstRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.comment-sec {
+  margin-top: 25px;
+}
+
+.comment {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 5px;
+}

@@ -1,0 +1,16 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.info div {
+  font-size: 18px;
+}

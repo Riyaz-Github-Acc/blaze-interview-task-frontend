@@ -1,0 +1,24 @@
+header {
+  background: #eff1f2;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+nav .link {
+  font-size: 20px;
+}
+
+nav .link:hover {
+  text-decoration: underline;
+}
